@@ -1,0 +1,22 @@
+h1{
+    color:cornflowerblue;
+    font-size: 48px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin: 40px;
+    margin: 66px 20px 10px;
+    border-width: 5px;
+    border-style:ridge;
+    border-color:crimson
+}
+    
+body{
+    color:darkcyan;
+    font-size: 30px;
+    font-family: 'Splash';
+    font-weight:200px;
+    font-family: 'Raleway', sans-serif;
+    background-color:aquamarine
+}
